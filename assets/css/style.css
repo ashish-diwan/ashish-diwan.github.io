@@ -388,6 +388,10 @@ a:hover {
   }
 }
 
+.description {
+  color: #000000;
+}
+
 .skill-mf span {
   color: #4e4e4e;
 }
